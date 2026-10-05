@@ -1,0 +1,9 @@
+runpod>=1.7.0
+diffusers @ git+https://github.com/huggingface/diffusers
+transformers>=4.51.0
+accelerate
+peft
+safetensors
+huggingface_hub[hf_transfer]
+pillow
+requests
